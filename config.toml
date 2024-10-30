@@ -25,7 +25,7 @@ paginate     = 10
 
   # Subtitle for home
 
-  homeSubtitle = "A simple and beautiful blog"
+  homeSubtitle = "钟笠的博客"
 
 
 
@@ -71,7 +71,7 @@ paginate     = 10
 
   [languages.en]
 
-    title = "Hello Friend NG"
+    title = "Hello My Friend"
 
     keywords = ""
 
